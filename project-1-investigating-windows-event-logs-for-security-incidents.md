@@ -293,7 +293,8 @@ Do NOT analyze systems without proper permission.
 
 ## 👤 Author
 Shakti Prasad Mahapatro
-**Cybersecurity Training & Practical Projects**
+
+Cybersecurity Expert
 
 ---
 
