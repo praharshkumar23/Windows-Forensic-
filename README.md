@@ -154,8 +154,7 @@ By mastering Windows Event Log investigations, you learn:
 
 ---
 
-## 👤 Author
-**Hackify Cybertech**  
+
 Cybersecurity Training & Hands-On Projects
 
 ---
